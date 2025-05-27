@@ -39,10 +39,10 @@ Score Range: 0–5
 •	Family history of Alzheimer’s: 1 point
 ## -  Total Risk Score = Lifestyle + Medical + Genetic
 This total score (out of 11) is classified as:
-•	0–1: Low
-•	2–3: Moderate
-•	4–5: High
-•	6+ : Very High
+1.	0–1: Low
+2.	2–3: Moderate
+3.	4–5: High
+4.	6+ : Very High
 This scoring helps group patients for comparison across different cognitive and health metrics.
 
 ## 🧠 Score Interpretations
@@ -50,9 +50,9 @@ This scoring helps group patients for comparison across different cognitive and 
 •	Functional Assessment Score: Ranges from 0 to 10 — lower scores indicate greater difficulty with daily tasks.
 
 ## 💡 Interactive Tips
-• Hover Tooltips: Hover over any chart to view detailed values.
-•	Filter Selections: Use slicers on the left to explore data by gender and education level.
-•	Reset View: Click the 🔄 refresh icon (top-left) to return to the default view and clear all filters.
+1. Hover Tooltips: Hover over any chart to view detailed values.
+2. Filter Selections: Use slicers on the left to explore data by gender and education level.
+3. Reset View: Click the 🔄 refresh icon (top-left) to return to the default view and clear all filters.
 
 ## 📁 Files Included
 1. Alzheimer’s Risk Dashboard.pbix: Power BI file
