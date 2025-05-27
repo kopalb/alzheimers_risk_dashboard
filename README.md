@@ -2,7 +2,6 @@
 This interactive Power BI dashboard analyzes patient data to uncover risk profiles and cognitive decline patterns in Alzheimer's disease. It provides insights into how demographics, health metrics, and cognitive scores relate to disease severity and functional impairment.
 
 ![Dashboard Screenshot](alzheimer%27s%20risk%20dashboard.png)
-)
 
 ## 📊 Dashboard Features
 2149 total pateints analyzed. Out of these, 760 diagnosed with Alzheimer's.
