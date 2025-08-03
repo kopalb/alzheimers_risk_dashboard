@@ -4,7 +4,7 @@ This interactive Power BI dashboard analyzes patient data to uncover risk profil
 ![Dashboard Screenshot](alzheimer%27s%20risk%20dashboard.png)
 
 ## 📊 Dashboard Features
-2149 total pateints analyzed. Out of these, 760 diagnosed with Alzheimer's.
+2149 total patients analyzed. Out of these, 760 diagnosed with Alzheimer's.
 ## - Key KPIs:
 1. Total Patients
 2. High Risk Patients
